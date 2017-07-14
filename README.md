@@ -9,3 +9,9 @@ The result is, as long as your mouse will be over this **\<div>**, the map panni
 ![L.Draggable Issue](http://i65.tinypic.com/xf18cp.png)
   
 This enhancer fixes this issue, and also takes care of handling other classes relying on **L.Draggable**, such as **L.Map.BoxZoom**.  
+
+Tested only with **Leaflet 1.0+**  
+Goes untested with previous versions **0.7-**
+
+The minified version for production can found in the __dist__ folder.  
+You can find source code in both __ES5__ and __ES6__.
