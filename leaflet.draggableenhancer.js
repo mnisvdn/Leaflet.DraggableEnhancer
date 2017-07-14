@@ -3,8 +3,8 @@
 // we do not master and that could have prevented propagation for some events
 // By default Leaflet binds the 'movemove' and 'moveup'
 // directly to the document root
-// In Lumira Discovery for example
-// the container where the map is included
+// Example:
+// If the container (<div>) where the L.Map is instanciated
 // has a 'event.stopPropagation()' for the 'mousemove' event
 // and thus map panning does not work
 // The trick is to bind the Leaflet 'movemove' and 'moveup' events
