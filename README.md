@@ -1,6 +1,6 @@
 # Leaflet.DraggableEnhancer
 
-This is not a plug-in, but more an "_enhancer_" of the default **L.Draggable** class.  
+This plug-in "_enhances_" the default **L.Draggable** class.  
 By default, the **L.Draggable** class is instanciated to allow dragging some objects around, like **L.Map** (which results in panning action in this case). 
   
 The fact is, the **L.Draggable** binds the events related to drag (_mousedown_, _mouseup_, _mousemove_, ...) to the main **document** root, which can cause problem if your map has to be instanciated within a **\<div>** you do not master, and has an _event.stopPropagation()_ executed with an handler bound to the _mousemove_ event for example.  
