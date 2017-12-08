@@ -1,0 +1,21 @@
+{
+  "name": "leaflet-draggable-enhancer",
+  "version": "0.0.1",
+  "description": "A leaflet plugin that get rid of the issues implied by the default L.Draggable in some cases",
+  "author": "Vincent Dechandon <vincent.dechandon@gmail.com>",
+  "main": "leaflet.draggableenhancer.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idawave/Leaflet.DraggableEnhancer"
+  },
+  "bugs": {
+    "url": "https://github.com/idawave/Leaflet.DraggableEnhancer/issues"
+  },
+  "keywords": [
+    "leaflet",
+    "draggable"
+  ],
+  "dependencies": {
+    "leaflet": "1.0.x"
+  }
+}
