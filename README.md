@@ -10,7 +10,7 @@ The result is, as long as your mouse will be over this **\<div>**, the map panni
   
 This plugin fixes this issue, and also takes care of handling other classes relying on **L.Draggable**, such as **L.Map.BoxZoom**.  
 
-It can also be [found here](http://leafletjs.com/plugins.html#events), under from the official **Leaflet Plugins** repository, under the **#Events** category.
+It can also be [found here](http://leafletjs.com/plugins.html#events), from from the official **Leaflet Plugins** repository, under the **#Events** category.
 
 Tested only with **Leaflet 1.0+**  
 Goes untested with previous versions **0.7-**
