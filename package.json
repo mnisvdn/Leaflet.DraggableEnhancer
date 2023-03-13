@@ -2,7 +2,7 @@
   "name": "leaflet-draggable-enhancer",
   "version": "0.0.1",
   "description": "A leaflet plugin that get rid of the issues implied by the default L.Draggable in some cases",
-  "author": "Vincent Dechandon <vincent.dechandon@gmail.com>",
+  "author": "Vince",
   "main": "leaflet.draggableenhancer.js",
   "repository": {
     "type": "git",
